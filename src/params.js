@@ -47,7 +47,8 @@ export const SDK_QUERY_KEYS = {
     STAGE_HOST:       ('stage-host' : 'stage-host'),
     STAGE_ALIAS:      ('stage-alias' : 'stage-alias'),
     CDN_REGISTRY:     ('cdn-registry' : 'cdn-registry'),
-    VERSION:          ('version' : 'version')
+    VERSION:          ('version' : 'version'),
+    SYNCHRONOUS_FLAG: ('synchronous-flag' : 'synchronous-flag')
 };
 
 export const COMPONENTS = {
