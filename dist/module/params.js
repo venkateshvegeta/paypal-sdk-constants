@@ -36,7 +36,8 @@ export var SDK_QUERY_KEYS = {
   STAGE_HOST: 'stage-host',
   STAGE_ALIAS: 'stage-alias',
   CDN_REGISTRY: 'cdn-registry',
-  VERSION: 'version'
+  VERSION: 'version',
+  SYNCHRONOUS_FLAG: 'synchronous-flag'
 };
 export var COMPONENTS = {
   BUTTONS: 'buttons',
