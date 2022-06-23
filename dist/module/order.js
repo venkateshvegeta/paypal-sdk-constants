@@ -117,3 +117,7 @@ export var CURRENCY = {
   XCD: 'XCD',
   YER: 'YER'
 };
+export var SYNCHRONOUS_FLAG = {
+  TRUE: true,
+  FALSE: false
+};

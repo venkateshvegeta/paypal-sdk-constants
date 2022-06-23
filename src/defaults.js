@@ -1,7 +1,7 @@
 /* @flow */
 
 import { COUNTRY } from './locale';
-import { CURRENCY, INTENT, COMMIT, VAULT } from './order';
+import { CURRENCY, INTENT, COMMIT, VAULT, SYNCHRONOUS_FLAG } from './order';
 import { COMPONENTS, DEBUG } from './params';
 
 export const DEFAULT_COUNTRY = COUNTRY.US;
@@ -13,3 +13,4 @@ export const DEFAULT_NONSALE_COMMIT = COMMIT.TRUE;
 export const DEFAULT_VAULT = VAULT.FALSE;
 export const DEFAULT_COMPONENTS = COMPONENTS.BUTTONS;
 export const DEFAULT_DEBUG = DEBUG.FALSE;
+export const DEFAULT_SYNCHRONOUS_FLAG = SYNCHRONOUS_FLAG.FALSE;

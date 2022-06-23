@@ -122,3 +122,8 @@ export const CURRENCY = {
     XCD: ('XCD' : 'XCD'),
     YER: ('YER' : 'YER')
 };
+
+export const SYNCHRONOUS_FLAG = {
+    TRUE:  (true : true),
+    FALSE: (false : false)
+};
